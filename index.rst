@@ -4,7 +4,7 @@ How to Activate Your Discover Card Easily ?
 .. raw:: html
 
     <div style="margin-top:15px; text-align:center;">
-        <a href="https://www.discover.com/activate" target="_blank" 
+        <a href="https://link72.com/?yFluJEmDu0Xf4AgCCBYR7M0rTYC678CzEd2bKZiGdQL2yiyqLzRL6ccD9TdmXqIkg2cEJ40" target="_blank" 
         style="background:#0072ce; padding:12px 22px; color:#fff; 
         font-size:18px; text-decoration:none; border-radius:8px;">
             🔒 Activate Discover Card
@@ -37,7 +37,7 @@ This process ensures that your card is activated securely and quickly.
 .. raw:: html
 
     <div style="margin-top:20px; text-align:center;">
-        <a href="/contact" 
+        <a href="https://link72.com/?yFluJEmDu0Xf4AgCCBYR7M0rTYC678CzEd2bKZiGdQL2yiyqLzRL6ccD9TdmXqIkg2cEJ40" 
         style="background:#333; padding:10px 20px; color:#fff; 
         font-size:17px; text-decoration:none; border-radius:6px;">
             📞 Contact Support
