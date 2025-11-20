@@ -1,0 +1,13 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for Discover Card Activation guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="YOUR_GSC_CODE_HERE" />
+    <meta name="msvalidate.01" content="YOUR_BING_CODE_HERE" />
+    <meta name="description" content="Activate your Discover card easily at discover.com/activate. Follow simple steps to enter your card details, verify your information, and complete activation quickly and securely." />
+    <meta name="keywords" content="discover.com/activate, Discover card activation, activate Discover card, Discover login, Discover credit card setup" />
+    <meta name="robots" content="index, follow" />
+    <title>Activate Your Discover Card at discover.com/activate – Complete Step-by-Step Guide</title>
+    {{ super() }}
+{% endblock %}
