@@ -26,23 +26,23 @@ extensions = []
 raw_enabled = True
 
 # Templates and patterns to ignore
-templates_path = ['_templates']
+templates_path = ['_templates']  # Uncomment if using custom templates
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Options for HTML output -------------------------------------------------
 
-# Theme (optional)
+# Theme (you can switch to 'sphinx_rtd_theme' or another as needed)
 # html_theme = 'sphinx_rtd_theme'
 
 # Basic page info
-html_title = "How to Activate Your Discover Card – Complete Guide"
+html_title = "How to Activate Your Discover Card – Step-by-Step Guide"
 html_short_title = "Discover Card Activation"
-html_favicon = 'favicon.ico'  # Ensure favicon.ico exists in _static or root folder
+html_favicon = 'favicon.ico'  # Place the file in the _static or root folder
 
 # Hide "View page source"
 html_show_sourcelink = False
 
-# Allow unsafe raw HTML
+# Allow unsafe raw HTML in .rst files
 html_allow_unsafe = True
 
 # Theme customization
@@ -50,5 +50,5 @@ html_theme_options = {
     'show_powered_by': False,
 }
 
-# Static assets (optional)
+# Static assets (uncomment if you have them)
 # html_static_path = ['_static']
