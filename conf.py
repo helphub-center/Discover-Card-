@@ -31,18 +31,18 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Options for HTML output -------------------------------------------------
 
-# Theme (optional: uncomment if needed)
+# Theme (optional)
 # html_theme = 'sphinx_rtd_theme'
 
 # Basic page info
-html_title = "How to Activate Your Discover Card – Step-by-Step Guide"
+html_title = "How to Activate Your Discover Card – Complete Guide"
 html_short_title = "Discover Card Activation"
-html_favicon = 'favicon.ico'  # Ensure favicon.ico exists in _static or root
+html_favicon = 'favicon.ico'  # Ensure favicon.ico exists in _static or root folder
 
 # Hide "View page source"
 html_show_sourcelink = False
 
-# Allow unsafe raw HTML in .rst files
+# Allow unsafe raw HTML
 html_allow_unsafe = True
 
 # Theme customization
